@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'imgcache',
+  name: 'practicalmeteor:imgcache',
   version: '0.0.1',
   // Brief, one-line summary of the package.
   summary: '',
